@@ -1,8 +1,8 @@
 Hola, mi primer archivo para github, probando git bash en windows.
 
-git init 
-git add README
-git commit -m "Secuencias"
-git branch -M main, master, origin o develpment
-git remote add origin, MikeSSMM/Pruebas
-git push -u origin main
+git init
+git add 
+git commit -m "trazabilidad"
+git branch -M main
+git remote add origin MikeSSM/Prueba
+git push
